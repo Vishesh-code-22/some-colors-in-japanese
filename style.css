@@ -1,0 +1,33 @@
+.red{
+    color: red;
+}
+
+.green{
+    color: green;
+}
+
+.blue{
+    color: blue;
+}
+
+.yellow{
+    color: yellow;
+}
+
+.orange{
+    color: orange;
+}
+
+.voilet{
+    color: violet;
+}
+
+.image{
+    height: 200px;
+    width: 200px;
+}
+
+.text{
+    font-weight: normal;
+    font-family: fantasy;
+}
